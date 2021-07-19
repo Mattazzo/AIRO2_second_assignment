@@ -1,4 +1,0 @@
-/home/enrico/Desktop/visits/visits_module/build/CMakeFiles/edit_cache.dir
-/home/enrico/Desktop/visits/visits_module/build/CMakeFiles/Visits.dir
-/home/enrico/Desktop/visits/visits_module/build/CMakeFiles/rebuild_cache.dir
-/home/enrico/Desktop/visits/visits_module/build/CMakeFiles/VisitMain.dir
